@@ -6,7 +6,7 @@ Patch of @types/react which allows  limited sharing of style sheets among React 
 Instead of ```npm install --save-dev @types/react``` use:
 
 ```sh
-npm install --save-dev "git+https://github.com/PavelPZ/reactx-types-react-patch.git"
+npm install --save-dev "git+https://github.com/PavelPZ/reactx-types-react.git"
 ```
 
 ## @types/react changes
