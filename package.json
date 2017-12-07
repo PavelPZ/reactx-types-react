@@ -7,18 +7,17 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PavelPZ/reactx-types-react-patch.git"
+    "url": "git+https://github.com/PavelPZ/reactx-types-react.git"
   },
   "keywords": [
     "react",
-    "react-native",
-    "icons"
+    "typescript"
   ],
   "author": "pzika@langmaster.cz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PavelPZ/reactx-types-react-patch/issues"
+    "url": "https://github.com/PavelPZ/reactx-types-react/issues"
   },
-  "homepage": "https://github.com/PavelPZ/reactx-types-react-patch#readme",
-  "readme": "https://github.com/PavelPZ/reactx-types-react-patch#readme"
+  "homepage": "https://github.com/PavelPZ/reactx-types-react#readme",
+  "readme": "https://github.com/PavelPZ/reactx-types-react#readme"
 }
