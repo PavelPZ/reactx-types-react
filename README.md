@@ -1,4 +1,4 @@
-# reactx-types-react-patch
+# reactx-types-react
 Patch of @types/react which allows  limited sharing of style sheets among React and ReactNative
 
 ## Installation
